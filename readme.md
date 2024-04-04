@@ -6,7 +6,7 @@ time an easy solution to that problem
 
 
 
-after running git clone ... run: 
+after running git clone https://github.com/shmulisarmy/clipboardHistory.git run: 
 ```sh
 pip install -r requirements.txt
 ```
